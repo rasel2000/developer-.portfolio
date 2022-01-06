@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px
@@ -18,4 +19,16 @@ section{
 }
 .mitu img {
     width: 80%;
+}
+.link-button{
+    background-image: linear-gradient(orange,red);
+    background-color: aqua;
+    padding: 10PX 40PX;
+    border-radius: 10px;
+    font-weight: 800;
+}
+.top-banner
+{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
