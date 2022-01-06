@@ -53,4 +53,8 @@ h1{
     background-image: url(images/exp-bg.png);
     background-position: left;
     background-repeat: no-repeat;
+    
+}
+footer p{
+    text-align: center;
 }
