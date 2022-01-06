@@ -10,7 +10,7 @@ h1{
 .orgcol{
     color: orange;
 }
-section{
+.flexible-contaniar{
     display: flex;
     margin: 100px;
 }
