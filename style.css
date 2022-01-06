@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px
+    
+
+}
+.orgcol{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.mitu{
+    width: 50%;
+    padding-left: 5%;
+}
+.mitu img {
+    width: 80%;
+}
